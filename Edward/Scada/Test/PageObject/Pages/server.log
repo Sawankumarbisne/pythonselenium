@@ -1,0 +1,8 @@
+INFO 03/03 07:34:56 o.b.p.Main           - Starting BrowserMob Proxy version 2.0-beta-6
+INFO 03/03 07:34:56 o.e.j.u.log          - jetty-7.3.0.v20110203
+INFO 03/03 07:34:57 o.e.j.u.log          - started o.e.j.s.ServletContextHandler{/,null}
+INFO 03/03 07:34:57 o.e.j.u.log          - Started SelectChannelConnector@0.0.0.0:8080
+INFO 03/03 07:34:58 o.b.p.j.h.HttpServer - Version Jetty/5.1.x
+INFO 03/03 07:34:58 o.b.p.j.u.Container  - Started HttpContext[/,/]
+INFO 03/03 07:34:58 o.b.p.j.h.SocketLis~ - Started SocketListener on 0.0.0.0:9091
+INFO 03/03 07:34:58 o.b.p.j.u.Container  - Started org.browsermob.proxy.jetty.jetty.Server@5e8712c9
